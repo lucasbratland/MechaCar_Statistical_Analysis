@@ -1,0 +1,5 @@
+library(tidyverse)
+mechacar <- read.csv("Resources/MechaCar_mpg.csv")
+head(mechacar)
+lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, mechacar)
+summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AWD, mechacar))
