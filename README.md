@@ -13,7 +13,7 @@
 ## Summary Statistics on Suspension Coils
 ![Image](/Resources/Images/Summary_Statistics_Suspension_Coils.PNG)
 
-Overall they are within the variance of 100 psi. They are averaging a variance of 62.29. When you look at teh individual lots, lot 1 & 2 are within spec. Lot 3 is excedding this with a variance of 170.29
+Overall they are within the variance of 100 psi. They are averaging a variance of 62.29. When you look at the individual lots, lot 1 & 2 are within spec. Lot 3 is excedding this with a variance of 170.29
 ![Image](/Resources/Images/Summary_Statistics_Suspension_Coils_2.PNG)
 
 ## T-Tests on Suspension Coils
@@ -25,3 +25,5 @@ When looking at each lot, lots 1 & 2 have no statisical difference from the stan
 ![Image](/Resources/Images/T_Tests_Suspension_Coils_2.PNG)
 ![Image](/Resources/Images/T_Tests_Suspension_Coils_3.PNG)
 
+## Study Design: MechaCar vs Competition
+I will complete this later
